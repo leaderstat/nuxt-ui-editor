@@ -1,0 +1,9 @@
+node_modules/
+.nuxt/
+.output/
+.data/
+experiments/logs/
+experiments/research/
+test-results/
+playwright-report/
+ci-logs/
